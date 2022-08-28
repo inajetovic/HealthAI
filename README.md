@@ -1,4 +1,4 @@
-New Repository for AI methods applied to Healthcare.
+New personal project for AI methods applied to Healthcare.
 
 1) Cirrhosis prediction
 2) soon..
