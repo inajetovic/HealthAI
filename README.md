@@ -1,7 +1,8 @@
 New personal project for AI methods applied to Healthcare.
 
-1) Cirrhosis prediction
-2) soon..
+### Cirrhosis prediction:
+Tehcniques: Data VIsualization, PCA, Re-Sampling(SMOTE), XGB, RandomForest and LSTM.
+### other projects soon..
 
 Dataset:
 18 clinical features for predicting liver cirrhosis stage.
